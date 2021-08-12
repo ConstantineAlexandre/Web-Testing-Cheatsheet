@@ -78,6 +78,9 @@ https://stackoverflow.com/questions/16986879/bash-script-to-list-all-ips-in-pref
 https://appsecco.com/books/subdomain-enumeration
 <br># This book intendes to be a reference for subdomain enumeration techniques.
 
+https://github.com/tomnomnom/assetfinder
+<br># Find domains and subdomains potentially related to a given domain.
+
 https://github.com/OWASP/Amass
 <br># The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 <br>```amass enum -passive -dir /tmp/amass_output/ -d example.com -o dir/example.com```
